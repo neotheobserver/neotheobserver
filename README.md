@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neotheobserver
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Program
+- 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me ...
 
 <!---
